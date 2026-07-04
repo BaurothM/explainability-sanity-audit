@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.spyproject/
+
+# Data & models
+models/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+
+# Results that are large or regenerable
+results/figures/*.pdf
+results/heatmaps/
+!results/figures/.gitkeep
+!results/tables/.gitkeep
+
+# OS-specific
+.DS_Store
+Thumbs.db
