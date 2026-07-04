@@ -405,7 +405,7 @@ This is research code for reproducing the experiments above, not a packaged libr
 The project uses a mamba/conda environment with Python 3.11 and a CUDA-capable GPU (CUDA 12.4).
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/BaurothM/explainability-sanity-audit.git
 cd explainability-sanity-audit
 
 mamba create -n esa python=3.11 -y
@@ -517,7 +517,7 @@ Sundararajan, M., Taly, A., & Yan, Q. (2017). Axiomatic attribution for deep net
   author = {Bauroth, Max>},
   title  = {Explainability Sanity Audit: Post-hoc Attribution Methods Across CNN, ViT, and Hybrid Architectures},
   year   = {2026},
-  url    = {<repository-url>},
+  url    = {https://github.com/BaurothM/explainability-sanity-audit},
   note   = {GitHub repository}
 }
 ```
