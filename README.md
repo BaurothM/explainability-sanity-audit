@@ -514,7 +514,7 @@ Sundararajan, M., Taly, A., & Yan, Q. (2017). Axiomatic attribution for deep net
 ## Citation
 ```
 @misc{Bauroth2026esa,
-  author = {Bauroth, Max>},
+  author = {Bauroth, Max},
   title  = {Explainability Sanity Audit: Post-hoc Attribution Methods Across CNN, ViT, and Hybrid Architectures},
   year   = {2026},
   url    = {https://github.com/BaurothM/explainability-sanity-audit},
